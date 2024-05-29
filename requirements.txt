@@ -1,0 +1,11 @@
+git+https://github.com/huggingface/transformers.git
+tiktoken 
+openai
+python-dotenv
+tqdm
+datasets
+sagemaker
+s3fs
+setuptools
+protobuf==3.20.1
+torch

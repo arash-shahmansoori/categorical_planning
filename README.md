@@ -69,7 +69,7 @@ python merge_categorical_blueprint_detail_planning.py
 
 ## Checkpoints
 
-The checkpoints for blueprint, detailed, and merged adapters will be made available in the following HuggingFace repositories, respectively:
+The checkpoints for blueprint, detailed, and merged adapters have been made available in the following HuggingFace repositories, respectively:
 
 ```sh
 arashmsn/Blueprint_Planning_Mistral-7B-Instruct-v0.2
